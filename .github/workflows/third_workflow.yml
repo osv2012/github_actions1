@@ -11,7 +11,7 @@ jobs:
           ls -a  
         #   lsfgf -a
       #- uses: actions/checkout@v4
-      - uses: actions/checkout
+      - uses: actions/checkout@v4
       - name: List Files
         run: |
           ls -a 

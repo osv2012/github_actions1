@@ -9,7 +9,7 @@ jobs:
         run: |
           pwd
           ls -a  
-          lsfgf -a
+        #   lsfgf -a
       #- uses: actions/checkout@v4
       - name: Copy Files
         run: |
